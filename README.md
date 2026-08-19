@@ -1,8 +1,8 @@
 ## 👨‍💻 Diogo Garcia Pinho
 
-**Desenvolvedor** — Estudando algoritmos e desenvolvimento de software.
+**Desenvolvedor** — apaixonado por tecnologia, algoritmos e desenvolvimento de software.
 
-Buscando aprender novas tecnologias.
+Sou o Diogo, natural do Brasil, e trabalho principalmente com **Python, C/C++, Java e JavaScript**. Gosto de resolver problemas, praticar algoritmos e estruturas de dados, e estou sempre buscando aprender novas tecnologias.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/diogo-garcia-7b057a3b8" target="_blank">
@@ -40,7 +40,7 @@ Buscando aprender novas tecnologias.
 </table>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DGarciaPinho&theme=react&hide_border=true" alt="Streak de contribuições"/>
+  <img src="https://streak-stats.demolab.com/?user=DGarciaPinho&theme=react&hide_border=true" alt="Streak de contribuições"/>
 </p>
 
 ---
