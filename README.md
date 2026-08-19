@@ -18,8 +18,6 @@ Buscando aprender novas tecnologias.
 - 💬 Me chama no Discord: `funnymonkey__`
 
 ---
-<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
 ###
 
 <img data-importer="image" align="right" height="150" src="https://github.com/DGarciaPinho/DGarciaPinho/blob/795eae3172f6407b5a329038025cb833b144bd4f/assets/mine.gif"  />
