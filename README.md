@@ -70,11 +70,11 @@ Buscando aprender novas tecnologias.
   <tr>
     <td valign="top" width="50%">
       <h4>Estatísticas do GitHub de Diogo Garcia</h4>
-      <img src="https://github-readme-stats.vercel.app/api?username=DGarciaPinho&show_icons=true&theme=react&hide_border=true&count_private=true" alt="Estatísticas do GitHub"/>
+      <img src="https://github-stats-extended.vercel.app/api?username=DGarciaPinho&show_icons=true&theme=react&hide_border=true&count_private=true" alt="Estatísticas do GitHub"/>
     </td>
     <td valign="top" width="50%">
       <h4>Linguagens mais usadas</h4>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGarciaPinho&layout=compact&theme=react&hide_border=true" alt="Linguagens mais usadas"/>
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DGarciaPinho&layout=compact&theme=react&hide_border=true" alt="Linguagens mais usadas"/>
     </td>
   </tr>
 </table>
