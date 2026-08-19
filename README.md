@@ -16,6 +16,9 @@ Buscando aprender novas tecnologias.
 ###
 
 ---
+###
+
+<img data-importer="image" align="right" height="150" src="https://github.com/DGarciaPinho/DGarciaPinho/blob/44e1217b52107c5f9cd6862fb2093fc334476ddf/assets/k.gif"  />
 
 ### 🎓 Sobre mim
 - 🖥️ Cursando **Engenharia de Computação** na **PUC Minas**
