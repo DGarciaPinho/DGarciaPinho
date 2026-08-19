@@ -1,8 +1,8 @@
 ## 👨‍💻 Diogo Garcia Pinho
 
-**Desenvolvedor** — apaixonado por tecnologia, algoritmos e desenvolvimento de software.
+**Desenvolvedor** — Estudando algoritmos e desenvolvimento de software.
 
-Sou o Diogo, natural do Brasil, e trabalho principalmente com **Python, C/C++, Java e JavaScript**. Gosto de resolver problemas, praticar algoritmos e estruturas de dados, e estou sempre buscando aprender novas tecnologias.
+Buscando aprender novas tecnologias.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/diogo-garcia-7b057a3b8" target="_blank">
