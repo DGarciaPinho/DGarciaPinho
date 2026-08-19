@@ -28,7 +28,7 @@ Buscando aprender novas tecnologias.
 
 <img data-importer="image" align="right" height="150" src="https://github.com/DGarciaPinho/DGarciaPinho/blob/795eae3172f6407b5a329038025cb833b144bd4f/assets/mine.gif"  />
 
-###
+### 🧰 Linguagens e Tecnologias
 
 <div data-importer="techs" align="left">
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="30" alt="arduino logo"  />
@@ -45,6 +45,8 @@ Buscando aprender novas tecnologias.
   <img width="12" />
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="30" alt="flask logo"  />
   <img width="12" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img width="12" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
@@ -57,15 +59,6 @@ Buscando aprender novas tecnologias.
 </div>
 
 ###
-
-### 🧰 Linguagens e Tecnologias
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
 
 ---
 
