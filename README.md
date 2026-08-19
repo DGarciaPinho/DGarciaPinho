@@ -1,19 +1,25 @@
 ## 👨‍💻 Diogo Garcia Pinho
-
 **Desenvolvedor** — Algoritmos e desenvolvimento de software.
-
 Buscando aprender novas tecnologias.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/diogo-garcia-7b057a3b8" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <img src="https://img.shields.io/badge/Discord-funnymonkey__-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </p>
 
 ---
 
-### 🧰 Linguagens e Tecnologias
+### 🎓 Sobre mim
+- 🖥️ Cursando **Engenharia de Computação** na **PUC Minas**
+- 🔎 Interesse em **Backend** e **Dados**
+- 🌱 Sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento
+- 💬 Me chama no Discord: `funnymonkey__`
 
+---
+
+### 🧰 Linguagens e Tecnologias
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
@@ -25,7 +31,6 @@ Buscando aprender novas tecnologias.
 ---
 
 ### 📊 Estatísticas
-
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -46,5 +51,5 @@ Buscando aprender novas tecnologias.
 ---
 
 <p align="left">
-  <i>Obrigado pela visita! Fique à vontade para me chamar no LinkedIn.</i>
+  <i>Obrigado pela visita! Fique à vontade para me chamar no LinkedIn ou Discord.</i>
 </p>
